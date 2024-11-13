@@ -83,3 +83,4 @@ The system comprises several core components, each outlined below:
 
 - Python 3.x
 - [Transformers Library](https://huggingface.co/transformers/)
+- Note: This project has been successfully run on a free Google Colab account.
